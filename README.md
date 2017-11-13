@@ -1,5 +1,5 @@
 # FB_Study
-Cornell Tech internship Data Analysis - sample code.
+Cornell Tech Internship Data Analysis - Sample Code.
 1.	The experiment lasted for 6 weeks. 
 2.	As part of the experiment, we gathered participants through Amazon's Turk Prime platform and monitored their Facebook activity using a research platform BeeHive. 
 3.	This platform was developed by Cornell Tech SmallData lab in order to help researchers to conduct various productivity experiments. 
